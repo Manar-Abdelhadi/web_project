@@ -1,53 +1,48 @@
-🛒 E-Commerce Platform (PHP & MySQL)
+# 🛒 E-Commerce Platform (PHP & MySQL)
 
-This project is a fully functional E-Commerce Platform built using native PHP and MySQL.
-It demonstrates core concepts of web application development, including CRUD operations, authentication, authorization, role management, and reporting.
+This project is a fully functional **E-Commerce Platform** built using **native PHP** and **MySQL**.  
+It demonstrates core concepts of **web application development**, including CRUD operations, authentication, authorization, role management, and reporting.  
 
-🚀 Features
+---
 
-User Authentication & Authorization
+## 🚀 Features
 
-Secure login & registration system.
+- **User Authentication & Authorization**  
+  - Secure login & registration system.  
+  - Role-based access control (**Admin / Customer / Seller**).  
 
-Role-based access control (Admin / Customer / Seller).
+- **Product Management (CRUD)**  
+  - Admins and sellers can **add, update, delete, and view products**.  
+  - Customers can browse and purchase products.  
 
-Product Management (CRUD)
+- **Shopping Functionality**  
+  - Add products to cart.  
+  - Place orders with real-time stock updates.  
+  - Manage order history.  
 
-Admins and sellers can add, update, delete, and view products.
+- **Role Management**  
+  - Admin can **assign and update roles** (Customer, Seller, Admin).  
 
-Customers can browse and purchase products.
+- **Reports for Admin**  
+  - Generate sales reports.  
+  - Track customer activity and order statistics.  
 
-Shopping Functionality
+- **Responsive UI**  
+  - Clean and simple design with HTML, CSS, and JavaScript.  
 
-Add products to cart.
+---
 
-Place orders with real-time stock updates.
+## 📂 Project Structure
 
-Manage order history.
+- **Backend:** PHP & MySQL  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** MySQL with relational schema (Products, Users, Orders, Roles, Reports)  
 
-Role Management
+---
 
-Admin can assign and update roles (Customer, Seller, Admin).
+## 📌 Note
 
-Reports for Admin
+To optimize the project size and performance, we have **compressed all CSS and JavaScript files into a single ZIP file**.  
+👉 Please extract them before running the project.  
 
-Generate sales reports.
-
-Track customer activity and order statistics.
-
-Responsive UI
-
-Clean and simple design with HTML, CSS, and JavaScript.
-
-📂 Project Structure
-
-Backend: PHP & MySQL
-
-Frontend: HTML, CSS, JavaScript
-
-Database: MySQL with relational schema (Products, Users, Orders, Roles, Reports)
-
-📌 Note
-
-To optimize the project size and performance, we have compressed all CSS and JavaScript files into a single ZIP file.
-👉 Please extract them before running the project.
+---
